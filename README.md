@@ -4,7 +4,10 @@
 - OMDB API를 이용해 데이터를 비동기로 불러와 데이터를 화면에 삽입
 - SWIPER 라이브러리를 이용해 영화포스터,공지사항의 내용을 슬라이드화 
 - SCSS를 이용해 Stylie 작업 
-
+- netlify를 이용해 사이트 배포 
+[LOTTE-MAIN-link](https://resonant-bublanina-cb3245.netlify.app/)
+- 검색창에 avengers,Avengers,AVENGERS라고 입력후 SEARCH-icon클릭하면 관련영화 5개 출력 
+- 검색창에 hunger,Hunger,HUNGER라고 입력후 SEARCH-icon클릭하면 관련영화 5개 출력 
 
 ## 사이트를 만들며 생긴 경험 
 - scss를 처음으로 사용해 봤고 중첩과 @mix-in, @include기능을 유용하게 사용했다
